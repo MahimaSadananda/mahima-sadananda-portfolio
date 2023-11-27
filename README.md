@@ -1,1 +1,1 @@
-# mahima-sadananda-portfolio
+# Mahima Sadananda portfolio
