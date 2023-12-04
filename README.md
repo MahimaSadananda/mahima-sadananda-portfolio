@@ -5,6 +5,12 @@
 
 🚀 This repository serves as a compilation of my data analysis projects, providing a glimpse into my skills and expertise. It also serves as a personal journey log, tracking my progress in various domains. Each project within this collection highlights diverse aspects of data analysis and visualization.
 
+🔗 Connect with me on [LinkedIn]([url](https://www.linkedin.com/in/mahima-sadananda/)) to collaborate.
+
+✍️ Follow my Data Analytics blog on [Medium].
+
+My CV in PDF [here]
+
 
 
 
