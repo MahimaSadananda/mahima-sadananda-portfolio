@@ -35,6 +35,9 @@
    --->
 
 ## Certifications
+I am committed to continuous learning and staying up to date with the industry's demands. Here are my latest certifications.
+
+
 
 
 
