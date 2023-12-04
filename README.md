@@ -9,7 +9,7 @@
 
 ✍️ Follow my Data Analytics blog on [Medium].
 
-My CV in PDF [here]
+📄 My CV in PDF [here]
 
 
 
