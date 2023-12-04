@@ -37,8 +37,8 @@
 ## Certifications
 I am committed to continuous learning and staying up to date with the industry's demands. Here are my latest certifications.
 
-- [Microsoft Power BI Desktop for Business Intelligence](2023)](https://www.udemy.com/certificate/UC-d8550d74-aea8-415b-93fc-012b26690bfb/) (Oct 2023)
-- [Statistics for Data Science and Business Analysis](https://www.udemy.com/certificate/UC-10b0a23e-fdef-42fd-8645-7eb426469eb5/)) [Udemy - 365 Careers] (Oct 2023)
+- [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-d8550d74-aea8-415b-93fc-012b26690bfb/) [Udemy - Maven Analytics](Oct 2023)
+- [Statistics for Data Science and Business Analysis](https://www.udemy.com/certificate/UC-10b0a23e-fdef-42fd-8645-7eb426469eb5/) [Udemy - 365 Careers] (Oct 2023)
 - [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science) [Coursera] (Jul 2020)
 
 
