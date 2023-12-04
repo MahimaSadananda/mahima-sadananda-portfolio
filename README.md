@@ -15,17 +15,17 @@
 
 1. [Youtube Data Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/YouTube%20Data%20Analysis)
 
-   - **Description**
-   - **Skills**
-   - **Technologies Used**
-   - **Results**
+   - **Description:**
+   - **Skills:**
+   - **Technologies Used:**
+   - **Results:**
 
 2. [E-commerce Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/E-commerce%20Analysis)
 
-   - **Description**
-   - **Skills**
-   - **Technologies Used**
-   - **Results**
+   - **Description:**
+   - **Skills:**
+   - **Technologies Used:**
+   - **Results:**
   
 <!--
    - **Description**
