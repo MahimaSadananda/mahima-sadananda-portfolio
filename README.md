@@ -1,1 +1,4 @@
-# Mahima Sadananda portfolio
+# Mahima Sadananda - portfolio
+
+# About
+
