@@ -1,4 +1,4 @@
-# Mahima Sadananda - portfolio
+# Mahima Sadananda - Portfolio
 
 ## About
 👋 Hello, I'm Mahima Sadananda, a data enthusiast holding a Master of Science (MSc) degree from the University of Sheffield. With a solid foundation gained during my one-year tenure as a Data Engineer at Accenture, I am now eagerly transitioning towards a Data Analyst role and on the lookout for graduate jobs and internship opportunities.
@@ -14,6 +14,25 @@
 ## Portfolio Projects
 
 1. [Youtube Data Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/YouTube%20Data%20Analysis)
+
+   - **Description**
+   - **Skills**
+   - **Technologies Used**
+   - **Results**
+
+2. [E-commerce Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/E-commerce%20Analysis)
+
+   - **Description**
+   - **Skills**
+   - **Technologies Used**
+   - **Results**
+  
+<!--
+   - **Description**
+   - **Skills**
+   - **Technologies Used**
+   - **Results**
+   --->
 
 
 
