@@ -13,10 +13,10 @@
 
 1. [Youtube Data Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/YouTube%20Data%20Analysis)
 
-- **Description:**
-- **Skills:**
-- **Technologies / Libraries Used:**
-- **Results:**
+- **Description:** The project focuses on analyzing YouTube video data from Music Artist YouTubers, aiming to uncover the key elements behind a video's success on the platform. It also delves into exploring trending topics within this niche using Natural Language Processing (NLP).
+- **Skills:** Python Coding, Data Cleaning, Data Analysis, Data Visualization, APIs for Data Generation, Statistics
+- **Technologies / Libraries Used:** Python, pandas, NumPy, Matplotlib, seaborn, Plotly, NLTK
+- **Results:** Examined distribution of views, engagement rates, video interactions, title characteristics, video duration, publishing times, and trending topics across Music Artists' channels.
 
 2. [Music Store Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/Music%20Store%20Analysis)
 
