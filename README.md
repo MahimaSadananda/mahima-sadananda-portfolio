@@ -25,7 +25,7 @@
 - **Technologies / Libraries Used:** SQL, MySQL Workbench
 - **Results:** Discovered leading genres, top-performing tracks, and customer spending patterns, enhancing revenue strategies. Investigated worldwide music trends, playlist preferences, and employee dynamics for a thorough understanding of the business landscape.
 
-3.[Banking Sector Churn Dashboard](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/Banking%20Sector%20Churn%20Dashboard)
+3. [Banking Sector Churn Dashboard](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/Banking%20Sector%20Churn%20Dashboard)
 
 - **Description:**
 - **Skills:**
