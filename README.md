@@ -34,9 +34,9 @@
 
 4. [E-commerce Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/E-commerce%20Analysis)
 
-- **Description:**
-- **Skills:**
-- **Technologies / Libraries Used:**
+- **Description:** 
+- **Skills:** Python Coding, Data Cleaning, Data Analysis, Data Visualization, Statistics
+- **Technologies / Libraries Used:** Python, pandas, NumPy, Matplotlib, seaborn, Plotly
 - **Results:**
 
 
