@@ -20,10 +20,10 @@
 
 2. [Music Store Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/Music%20Store%20Analysis)
 
-- **Description:**
-- **Skills:**
-- **Technologies / Libraries Used:**
-- **Results:**
+- **Description:** The project seeks to delve into the nuances of the music industry, conducting a thorough investigation into sales, customer behavior, genre and artist popularity, worldwide trends, playlists, and employee dynamics.
+- **Skills:** SQL Coding, Data Analysis
+- **Technologies / Libraries Used:** SQL, MySQL Workbench
+- **Results:** Discovered leading genres, top-performing tracks, and customer spending patterns, enhancing revenue strategies. Investigated worldwide music trends, playlist preferences, and employee dynamics for a thorough understanding of the business landscape.
 
 3.[Banking Sector Churn Dashboard](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/Banking%20Sector%20Churn%20Dashboard)
 
