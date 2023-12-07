@@ -31,7 +31,6 @@
    - **Skills:**
    - **Technologies / Libraries Used:**
    - **Results:**
-   
 
 4. [E-commerce Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/E-commerce%20Analysis)
 
@@ -39,6 +38,8 @@
    - **Skills:**
    - **Technologies / Libraries Used:**
    - **Results:**
+
+
 <!--
    - **Description**
    - **Skills**
