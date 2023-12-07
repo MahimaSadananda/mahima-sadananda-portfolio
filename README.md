@@ -15,16 +15,30 @@
 
    - **Description:**
    - **Skills:**
-   - **Technologies Used:**
+   - **Technologies / Libraries Used:**
    - **Results:**
-
-2. [E-commerce Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/E-commerce%20Analysis)
+  
+2. [Music Store Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/Music%20Store%20Analysis)
 
    - **Description:**
    - **Skills:**
-   - **Technologies Used:**
+   - **Technologies / Libraries Used:**
    - **Results:**
-  
+
+3.[Banking Sector Churn Dashboard](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/Banking%20Sector%20Churn%20Dashboard)
+
+   - **Description:**
+   - **Skills:**
+   - **Technologies / Libraries Used:**
+   - **Results:**
+   
+
+4. [E-commerce Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/E-commerce%20Analysis)
+
+   - **Description:**
+   - **Skills:**
+   - **Technologies / Libraries Used:**
+   - **Results:**
 <!--
    - **Description**
    - **Skills**
