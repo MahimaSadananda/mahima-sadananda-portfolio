@@ -1,7 +1,7 @@
 # Mahima Sadananda - Portfolio
 
 ## 👩‍🎓 About
-👋 Hello, I'm Mahima Sadananda, a data enthusiast holding a Master of Science (MSc) degree from the University of Sheffield. With a solid foundation gained during my one-year tenure as a Data Engineer at Accenture, I am now eagerly transitioning towards a Data Analyst role and on the lookout for graduate jobs and internship opportunities.
+👋 Hello, I'm Mahima Sadananda, a data enthusiast holding a **Master of Science (MSc) degree in Data Science** from the _University of Sheffield_. With a solid foundation gained during my one-year tenure as a Data Engineer at Accenture, I am now eagerly transitioning towards a Data Analyst role and on the lookout for graduate jobs and internship opportunities.
 
 🚀 This repository serves as a compilation of my data analysis projects, providing a glimpse into my skills and expertise. It also serves as a personal journey log, tracking my progress in various domains. Each project within this collection highlights diverse aspects of data analysis and visualization.
 
@@ -27,10 +27,10 @@
 
 3. [Banking Sector Churn Dashboard](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/Banking%20Sector%20Churn%20Dashboard)
 
-- **Description:**
-- **Skills:**
-- **Technologies / Libraries Used:**
-- **Results:**
+- **Description:** The project aims a creating a Power BI dashboard to delve into the intricacies of customer churn within a banking context.
+- **Skills:** Dashboarding, Data Cleaning, Data Analysis, Data Visualization
+- **Technologies / Libraries Used:** Microsoft Power BI
+- **Results:** Identified and visualized key metrics associated with customer churn, providing actionable insights.
 
 4. [E-commerce Analysis](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/tree/main/E-commerce%20Analysis)
 
