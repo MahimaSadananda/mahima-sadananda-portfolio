@@ -37,7 +37,7 @@
 - **Description:** Conducted a comprehensive analysis of e-commerce sales data, seeking insights into various aspects such as sales trends over time, distribution of order statuses, geographical patterns, and identification of high-demand products contributing to revenue.
 - **Skills:** Python Coding, Data Cleaning, Data Analysis, Data Visualization, Statistics
 - **Technologies / Libraries Used:** Python, pandas, NumPy, Matplotlib, seaborn, Plotly
-- **Results:**
+- **Results:** Analyzing the sales trend revealed peak periods and patterns, aiding strategic planning. Correlating order statuses with revenue and identifying high-demand products provided actionable insights for optimizing order fulfillment, inventory management, and targeted marketing in key regions.
 
 
 <!--
