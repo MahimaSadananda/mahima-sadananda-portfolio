@@ -7,7 +7,7 @@
 
 ✍️ Follow my Data Analytics blog on [Medium].
 
-📄 My CV in PDF [here]
+📄 My CV in [PDF](https://github.com/MahimaSadananda/mahima-sadananda-portfolio/blob/main/Mahima_Sadananda_CV.pdf)
 
 ## 📂 Portfolio Projects
 
