@@ -36,6 +36,8 @@ The “video_df” dataframe comprises 1446 rows and 12 columns.
 | definition | video resolution or quality |
 | caption | indicates whether captions are available for the video |
 
+<be>
+
 The “comments_df” dataframe has 1323 rows and 2 columns.
 
 | Variable | Description |
