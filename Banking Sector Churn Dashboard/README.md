@@ -1,4 +1,4 @@
-# Bank Customer Churn Dashboard
+# Banking Sector Churn Dashboard
 
 _This directory contains the Power BI dashboard file, a PDF document with snapshots of the dashboard, and a PowerPoint presentation._
 
