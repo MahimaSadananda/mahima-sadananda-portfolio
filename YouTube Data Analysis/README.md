@@ -47,3 +47,6 @@ The “comments_df” dataframe has 1323 rows and 2 columns.
 
 # Results
 
+Examined distribution of views, engagement rates, video interactions, title characteristics, video duration, publishing times, and trending topics across Music Artists' channels.
+
+
