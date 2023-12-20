@@ -16,6 +16,8 @@ Conducted a comprehensive analysis of e-commerce sales data, seeking insights in
 
 # Results
 
+Analyzing the sales trend revealed peak periods and patterns, aiding strategic planning. Correlating order statuses with revenue and identifying high-demand products provided actionable insights for optimizing order fulfillment, inventory management, and targeted marketing in key regions.
+
 
 
 
